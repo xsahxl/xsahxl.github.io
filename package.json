@@ -1,6 +1,7 @@
 {
   "name": "@serverless-devs/core",
   "version": "0.0.80",
+  "autoInstall": false,
   "description": "Serverless Devs Tool Core Component",
   "keywords": [
     "Serverless",
